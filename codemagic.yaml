@@ -3,8 +3,8 @@ workflows:
     name: Aridman's Happy Place - unsigned iOS IPA (Flutter)
     instance_type: mac_mini_m2
     environment:
-    flutter: stable
-     xcode: latest
+      flutter: stable
+      xcode: latest
       cocoapods: default
       groups:
         - youtube
